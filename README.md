@@ -20,7 +20,7 @@
 
 #### 主界面
 
-![1568177009304](https://github.com/abigbigsmile/SurveySystem/blob/master/WebRoot/SurveySystemImages/1568177009304.png)
+![1568177009304](https://github.com/abigbigsmile/SurveySystem/blob/master/WebRoot/SurveySystemImages/1568179121700.png)
 
 #### 注册界面
 
