@@ -20,28 +20,28 @@
 
 #### 主界面
 
-![1568177009304](C:\Users\Smile\Desktop\SurveySystemImages\1568177009304.png)
+![1568177009304](https://github.com/abigbigsmile/SurveySystem/blob/master/WebRoot/SurveySystemImages/1568177009304.png)
 
 #### 注册界面
 
-![1568177094217](C:\Users\Smile\Desktop\SurveySystemImages\1568177094217.png)
+![1568177094217](https://github.com/abigbigsmile/SurveySystem/blob/master/WebRoot/SurveySystemImages/1568177094217.png)
 
 #### 登录界面
 
-![1568177223800](C:\Users\Smile\Desktop\SurveySystemImages\1568177223800.png)
+![1568177223800](https://github.com/abigbigsmile/SurveySystem/blob/master/WebRoot/SurveySystemImages/1568177223800.png)
 
 #### 后台管理界面
 
-![1568177296551](C:\Users\Smile\Desktop\SurveySystemImages\1568177296551.png)
+![1568177296551](https://github.com/abigbigsmile/SurveySystem/blob/master/WebRoot/SurveySystemImages/1568177296551.png)
 
 #### 用户界面
 
-![1568177622014](C:\Users\Smile\Desktop\SurveySystemImages\1568177622014.png)
+![1568177622014](https://github.com/abigbigsmile/SurveySystem/blob/master/WebRoot/SurveySystemImages/1568177622014.png)
 
 #### 查看问卷界面
 
-![1568177708180](C:\Users\Smile\Desktop\SurveySystemImages\1568177708180.png)
+![1568177708180](https://github.com/abigbigsmile/SurveySystem/blob/master/WebRoot/SurveySystemImages/1568177708180.png)
 
 #### 发布问卷界面
 
-![1568177768042](C:\Users\Smile\Desktop\SurveySystemImages\1568177768042.png)
+![1568177768042](https://github.com/abigbigsmile/SurveySystem/blob/master/WebRoot/SurveySystemImages/1568177768042.png)
