@@ -1,0 +1,63 @@
+@CHARSET "UTF-8";
+
+/*自定义容器*/
+.container-narrow {
+	margin: 0 auto;
+	max-width: 960px;
+}
+/*主体部分表单搜索框*/
+.jumbotron {
+	margin: 50px 0;
+	text-align: center;
+}
+
+#paperId {
+	height: 34px;
+	line-height: 34px;
+	font-size: 22px;
+}
+/*热门推荐等格式*/
+.marketing p+h4 {
+	margin-top: 28px;
+}
+
+body {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.container1 {
+	width: 960px;
+	margin: auto;
+}
+/*内容部分*/
+.maincontent {
+	margin-top: 40px;
+	height: auto;
+}
+
+.right-button {
+	border-width: 3px;
+	border-color: red;
+	margin: 0;
+	padding: 30px 0px 0px 3px;
+}
+
+.buttonspace {
+	margin-top: 15px;
+	padding: 20px 0px 0px 3px;
+}
+
+/*热门推荐等格式*/
+.marketing p+h4 {
+	margin-top: 28px;
+}
+
+.nav-pills>li>a {
+	padding-top: 2px;
+}
+
+.fabu a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
